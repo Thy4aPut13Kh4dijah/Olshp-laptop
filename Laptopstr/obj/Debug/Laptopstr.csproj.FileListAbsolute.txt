@@ -1,0 +1,17 @@
+C:\Users\THYAS\source\repos\Laptopstr\bin\Debug\Laptopstr.exe.config
+C:\Users\THYAS\source\repos\Laptopstr\bin\Debug\Laptopstr.exe
+C:\Users\THYAS\source\repos\Laptopstr\bin\Debug\Laptopstr.pdb
+C:\Users\THYAS\source\repos\Laptopstr\bin\Debug\EntityFramework.dll
+C:\Users\THYAS\source\repos\Laptopstr\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\THYAS\source\repos\Laptopstr\bin\Debug\EntityFramework.xml
+C:\Users\THYAS\source\repos\Laptopstr\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\THYAS\source\repos\Laptopstr\obj\Debug\Laptopstr.csproj.AssemblyReference.cache
+C:\Users\THYAS\source\repos\Laptopstr\obj\Debug\Laptopstr.Form1.resources
+C:\Users\THYAS\source\repos\Laptopstr\obj\Debug\Laptopstr.Properties.Resources.resources
+C:\Users\THYAS\source\repos\Laptopstr\obj\Debug\Laptopstr.csproj.GenerateResource.cache
+C:\Users\THYAS\source\repos\Laptopstr\obj\Debug\Laptopstr.csproj.CoreCompileInputs.cache
+C:\Users\THYAS\source\repos\Laptopstr\obj\Debug\Laptopstr.csproj.Up2Date
+C:\Users\THYAS\source\repos\Laptopstr\obj\Debug\Laptopstr.exe
+C:\Users\THYAS\source\repos\Laptopstr\obj\Debug\Laptopstr.pdb
+C:\Users\THYAS\source\repos\Laptopstr\obj\Debug\Laptopstr.register.resources
+C:\Users\THYAS\source\repos\Laptopstr\obj\Debug\Laptopstr.Form2.resources
